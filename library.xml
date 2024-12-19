@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>Learning XPath</title>
+        <author>John Doe</author>
+        <year>2021</year>
+        <genre>Technology</genre>
+    </book>
+    <book id="2">
+        <title>XML Basics</title>
+        <author>Jane Smith</author>
+        <year>2019</year>
+        <genre>Education</genre>
+    </book>
+    <book id="3">
+        <title>Advanced XML</title>
+        <author>Emily Johnson</author>
+        <year>2023</year>
+        <genre>Technology</genre>
+    </book>
+</library>
